@@ -1,0 +1,23 @@
+.aruu{
+ 
+    background-color: lavender;
+    color:black
+    }
+.h{
+    display: flex;
+   background-color: black;
+   color: white;
+   justify-content:space-evenly;
+}
+img {
+    display: flex;
+   
+border-radius: 30%;
+border:black solid;
+justify-content:space-evenly;
+
+}
+
+img.rounded-corners {
+border-radius: 30px;
+}
